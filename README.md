@@ -83,3 +83,9 @@ This material was developed by the RCDS team at ECRI.
 <!-- Images are similar but begin with an exclamation point ![ALT TEXT](URL) -->
 
 ![ECRI logo here](docs/assets/ecri-banner.png)
+
+
+| Table | Headings |
+| --- | --- |
+| Data1 | Data2 |
+> Indented comment
