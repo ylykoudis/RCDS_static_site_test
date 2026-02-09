@@ -1,7 +1,9 @@
 # Welcome to MkDocs_test
 
 A simple static site creation test.
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+![ECRI Banner](assets/ecri-banner.png)
+## Getting Started
 
 ## Commands
 
