@@ -1,4 +1,4 @@
-## Material for MkDocs Template
+# Material for MkDocs Template
 
 Click [**Use this template**](https://github.com/ImperialCollegeLondon/RCDS-mkdocs-material-template/generate) for the quickest method of getting started with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
