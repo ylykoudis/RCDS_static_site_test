@@ -1,5 +1,6 @@
-# Welcome to MkDocs
+# Welcome to MkDocs_test
 
+A simple static site creation test.
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
